@@ -1,2 +1,0 @@
-# mapboxWithMarker
-Created with CodeSandbox
